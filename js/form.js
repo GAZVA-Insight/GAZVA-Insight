@@ -7,7 +7,7 @@
   "use strict";
 
   // Web3Forms access key from https://web3forms.com
-  const WEB3FORMS_ACCESS_KEY = "e42fb4ab-a451-4953-b6ed-7b6fcc81f819";
+  const WEB3FORMS_ACCESS_KEY = "31bdbac1-68c5-4df5-9312-1962d2dc55a9";
   const WEB3FORMS_ENDPOINT = "https://api.web3forms.com/submit";
 
   function setStatus(statusEl, state, message) {
